@@ -1,8 +1,8 @@
 # Configuration file for the Sphinx documentation builder.
 
 # Project information
-project = 'Hitman Antivirus'
-author = 'Pankaj Joshi'
+project = 'Quickbook Online Support'
+author = 'Sachin'
 release = '1.0'
 
 # Extensions
